@@ -21,6 +21,7 @@ Från och med den 1 januari 2014 gäller ett nytt avtal inom Avtalspension SAF-L
 - Folksam Liv Traditionell
 - Folksam LO Pension Fond
 - Handelsbanken Liv Fond
+- Ickevalsbolag (AMF)
 - Movestic Liv & Pension Fond
 - Nordea Liv & Pension Fond
 - SEB Fond
@@ -29,5 +30,43 @@ Från och med den 1 januari 2014 gäller ett nytt avtal inom Avtalspension SAF-L
 - Swedbank Fond
 
 Jämför bolag som var valbara mellan 2009-2013
+- Alecta Traditionell
+- AMF Fond
+- AMF Traditionell
+- Avanza Pension Fond
+- Folksam Traditionell
+- Folksam LO Pension Fond
+- Futur Pension Fond
+- Ickevalsalternativ (AMF)
+- Länsförsäkringar Traditionell
+- Nordea Liv & Pension Traditionell
+- SPP Fond
+- Swedbank Traditionell
 
 Jämför bolag som var valbara före 2009
+- Alecta Traditionell
+- AMF Fond
+- AMF Traditionell
+- Folksam Traditionell
+- Folksam LO Pension Fond
+- Futur Pension Fond
+- Handelsbanken Fond
+- Handelsbanken Tradtionell
+- Ickevalsalternativ (AMF)
+- KPA Pension Fond
+- KPA Pension Traditionell
+- Länsförsäkringar Fond
+- Länsförsäkringar Traditionell
+- Nordea Fond
+- Nordea Traditionell
+- Pensionskassan Prometheus
+- SEB Fond
+- SEB Tradtionell
+- Skadia Fond
+- Skadia Traditionell
+- SPP Fond
+- SPP Traditonell
+- Svensk Handel Fond
+- Svensk Handel Traditionell
+- Swedbank Fond
+- Volvoresultats Försäkringsförening Tradtitionell
