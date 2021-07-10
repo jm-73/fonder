@@ -15,7 +15,7 @@ Arbetsgivaren betalar för din räkning in pensionspremien till valcentralen Col
 # Ditt eget ansvar
 ITP 1 är en helt premiebestämd pension, där du får placera pensionspremien som du vill. Det innebär att du helt själv, utifrån exempelvis ditt val av bolag, efterlevandeskydd, och utbetalningstid, bär ansvaret för hur stor din pension blir i slutändan. Har du inte gjort något val, placeras premierna i det så kallade ickevalsalternativet, som är en traditionellt förvaltad försäkring i försäkringsbolaget Alecta.
 
-# ITP 1 - Valbara i nuläget
+# ITP 1 / ITPK - Valbara i nuläget
 Den senaste upphandlingen gjordes 2018, och då valdes följande försäkringsbolag ut som förvaltare av tjänstepensionen ITP för perioden 1 oktober 2018 till 30 september 2023:
 Alecta Traditionell
 AMF Traditionell
