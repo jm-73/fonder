@@ -1,8 +1,6 @@
-# ITP1
+# ITP 1 ITPK
 
-ITP1 administreras av collectum:
-
-https://collectum.se/
+ITP 1 samt ITPK administreras av [collectum](https://collectum.se/)
 
 # Förvaltningsform och efterlevandeskydd
 Enligt avtalet för ITP 1 kan du placera 50 procent av dina pensionspremier i vilket försäkringsbolag och förvaltningsform du vill. Men minst 50 procent måste du placera i en traditionellt förvaltad försäkring, Du kan också välja till ett återbetalningsskydd och/eller familjeskydd som ger din familj ökad trygghet om du dör, men då blir din egen pension lägre.
