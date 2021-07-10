@@ -15,17 +15,17 @@ ITP 1 är en helt premiebestämd pension, där du får placera pensionspremien s
 
 # ITP 1 / ITPK - Valbara i nuläget
 Den senaste upphandlingen gjordes 2018, och då valdes följande försäkringsbolag ut som förvaltare av tjänstepensionen ITP för perioden 1 oktober 2018 till 30 september 2023:
-Alecta Traditionell
-AMF Traditionell
-Folksam Traditionell
-Futur Pension Fond (tidigare Danica)
-Handelsbanken Fond
-Ickevalsalternativ Traditionell
-Movestic Fond
-SEB Traditionell
-Skandia Traditionell
-SPP Fond
-Swedbank Fond
+- Alecta Traditionell
+- AMF Traditionell
+- Folksam Traditionell
+- Futur Pension Fond (tidigare Danica)
+- Handelsbanken Fond
+- Ickevalsalternativ Traditionell
+- Movestic Fond
+- SEB Traditionell
+- Skandia Traditionell
+- SPP Fond
+- Swedbank Fond
 
 Nästa ITP-upphandling kommer att genomföras 2023.
 
