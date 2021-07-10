@@ -15,12 +15,60 @@ Arbetsgivaren betalar för din räkning in pensionspremien till valcentralen Col
 # Ditt eget ansvar
 ITP 1 är en helt premiebestämd pension, där du får placera pensionspremien som du vill. Det innebär att du helt själv, utifrån exempelvis ditt val av bolag, efterlevandeskydd, och utbetalningstid, bär ansvaret för hur stor din pension blir i slutändan. Har du inte gjort något val, placeras premierna i det så kallade ickevalsalternativet, som är en traditionellt förvaltad försäkring i försäkringsbolaget Alecta.
 
-# Bolag som inte längre går att välja
-AMF fondförsäkring och SEB fondförsäkring går egentligen inte längre att välja  i ITP 1, men de har tecknat avtal med valcentralen Collectum om att  ta emot premier även efter den 1 oktober 2018. Om du har någon av de här försäkringarna sedan tidigare får du ett brev från Collectum och måste aktivt bekräfta om du vill behålla dem. Gör du inget val, placeras premierna i det så kallade ickevalsalternativet, som är en traditionellt förvaltad försäkring i försäkringsbolaget Alecta.
+# ITP 1 - Valbara i nuläget
+Den senaste upphandlingen gjordes 2018, och då valdes följande försäkringsbolag ut som förvaltare av tjänstepensionen ITP för perioden 1 oktober 2018 till 30 september 2023:
+Alecta Traditionell
+AMF Traditionell
+Folksam Traditionell
+Futur Pension Fond (tidigare Danica)
+Handelsbanken Fond
+Ickevalsalternativ Traditionell
+Movestic Fond
+SEB Traditionell
+Skandia Traditionell
+SPP Fond
+Swedbank Fond
 
-Följande bolag går inte  längre att välja och försäkringarna i dem läggs i fribrev:
+Nästa ITP-upphandling kommer att genomföras 2023.
 
-Från den 1 oktober 2018
 
-Nordea Liv
-Länsförsäkringar Liv
+# ITP 1 - valbara bolag 2013-2018
+
+Alecta Traditionell
+AMF Traditionell
+AMF Fond
+Folkam Traditionell
+Futur Pension Fond
+Ickevalsalternativ Traditionell
+SEB Fond
+Skandia Traditionell
+SPP Fond
+Swedbank Fond
+
+# ITP 1 - valbara bolag 2010-2013
+
+Alecta Traditionell
+AMF Traditionell
+AMF Fond
+Futur Pension Fond
+Handelsbanken Fond
+Ickevalsalternativ Traditionell
+Länsförskringar Traditionell
+Nordea Fond
+Nordea Traditionell
+SEB Fond
+Skandia Traditionell
+
+# ITP 1 - valbara bolag 2007-2010
+
+Alecta Traditionell
+AMF Fond
+AMF Traditionell
+Ickevalsalternativ Traditionell
+Länsförsäkringar Fond
+Länsförskringar Traditionell
+Movestic Fond
+Nordea Traditionell
+SEB Fond
+Skandia Traditionell
+Swedbank Fond
