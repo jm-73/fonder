@@ -32,41 +32,41 @@ Nästa ITP-upphandling kommer att genomföras 2023.
 
 # ITP 1 - valbara bolag 2013-2018
 
-Alecta Traditionell
-AMF Traditionell
-AMF Fond
-Folkam Traditionell
-Futur Pension Fond
-Ickevalsalternativ Traditionell
-SEB Fond
-Skandia Traditionell
-SPP Fond
-Swedbank Fond
+- Alecta Traditionell
+- AMF Traditionell
+- AMF Fond
+- Folkam Traditionell
+- Futur Pension Fond
+- Ickevalsalternativ Traditionell
+- SEB Fond
+- Skandia Traditionell
+- SPP Fond
+- Swedbank Fond
 
 # ITP 1 - valbara bolag 2010-2013
 
-Alecta Traditionell
-AMF Traditionell
-AMF Fond
-Futur Pension Fond
-Handelsbanken Fond
-Ickevalsalternativ Traditionell
-Länsförskringar Traditionell
-Nordea Fond
-Nordea Traditionell
-SEB Fond
-Skandia Traditionell
+- Alecta Traditionell
+- AMF Traditionell
+- AMF Fond
+- Futur Pension Fond
+- Handelsbanken Fond
+- Ickevalsalternativ Traditionell
+- Länsförskringar Traditionell
+- Nordea Fond
+- Nordea Traditionell
+- SEB Fond
+- Skandia Traditionell
 
 # ITP 1 - valbara bolag 2007-2010
 
-Alecta Traditionell
-AMF Fond
-AMF Traditionell
-Ickevalsalternativ Traditionell
-Länsförsäkringar Fond
-Länsförskringar Traditionell
-Movestic Fond
-Nordea Traditionell
-SEB Fond
-Skandia Traditionell
-Swedbank Fond
+- Alecta Traditionell
+- AMF Fond
+- AMF Traditionell
+- Ickevalsalternativ Traditionell
+- Länsförsäkringar Fond
+- Länsförskringar Traditionell
+- Movestic Fond
+- Nordea Traditionell
+- SEB Fond
+- Skandia Traditionell
+- Swedbank Fond
