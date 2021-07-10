@@ -1,3 +1,5 @@
+![State](/doc/pyramiden.jpg)
+
 # Fonder
 
 Detta är ett repo med listor över fondutbud valbara i svenska banker och fondinstitut. Fokus är på de fondutbud som är valbara i olika tjänstepensioner.
