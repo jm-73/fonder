@@ -1,4 +1,4 @@
-![State](/doc/pyramiden.jpg)
+![State](/doc/pyramiden.png)
 
 # Fonder
 
