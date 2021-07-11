@@ -16,6 +16,10 @@ Det är oerhört snårigt idag att få reda på utbud i olika valvcentraler och 
 
 Ladda ner dem i Excel och kolla över dina valmäjligheter. Bygg ditt eget Python-program som hämtar fondkurser. Gör en egen fond-robot. Möjligheterna är oändliga...
 
+# Vart kommer informationen från?
+
+Informationen om de olika tjänstepensionerna kommer från [konsumenternas.se](https://www.konsumenternas.se/). Informationen om fondutbud för respektive avtalsområde är hämtat från respektive valcentral samt bankernas/fondinstitutens hemsdor.
+
 # Avtalsområden
 Enligt [konsumenternas.se](https://www.konsumenternas.se/sparande--pension/pension/tjanstepension/kollektivavtalade-tjanstepensioner/) är dessa de största kollektivavtalade tjänstepensionerna:
 - Privatanställd tjänsteman född 1979 - (ITP 1)
